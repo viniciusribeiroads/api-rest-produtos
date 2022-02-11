@@ -1,3 +1,3 @@
-## API de cadastro de produtos em Spring
+## API REST de cadastro de produtos em Spring
 
-# Banco de dados utilizado foi Mysql, tecnologias envolvidas: spring boot, JPA e Maven.
+#### Banco de dados utilizado foi Mysql, tecnologias envolvidas: spring boot, JPA e Maven.
